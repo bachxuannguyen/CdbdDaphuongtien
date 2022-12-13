@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Cấu hình website-->
+<config>
+  <!--Kết nối tới CSDL-->
+  <serverName>.</serverName>
+  <usrName>cdbd_mm_usr</usrName>
+  <usrPassword>@Bb1234567890</usrPassword>
+  <admName>cdbd_mm_adm</admName>
+  <admPassword>@Bb1234567890</admPassword>  
+  <database>cdbd_mm</database>
+  <rowsPerPage>10</rowsPerPage>
+  <encodeQS>1</encodeQS>
+</config>
